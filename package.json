@@ -1,0 +1,71 @@
+{
+  "name": "news-block",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --mode development",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "bootstrap": ">=4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "newsapi": "^2.4.0",
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.1.1",
+    "@vue/cli-plugin-eslint": "^3.1.5",
+    "@vue/cli-service": "^3.1.4",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0-0",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "description": " The easy forms handler for your API Endpoints.",
+  "main": "src/form-render.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atiladanvi/news-block.git"
+  },
+  "keywords": [
+    "form",
+    "vue",
+    "errors",
+    "inputs",
+    "resources"
+  ],
+  "author": "Atila Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Atiladanvi/news-block/issues"
+  },
+  "homepage": "https://github.com/Atiladanvi//news-block#readme"
+}
