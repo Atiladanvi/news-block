@@ -1,0 +1,448 @@
+{
+  "status":"ok",
+  "totalResults":34,
+  "articles":[
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Justiça autoriza transferência de Lula para São Paulo - G1",
+      "description":"Decisão foi publicada no sistema da Justiça Federal do Paraná às 8h46 desta quarta-feira (7).",
+      "url":"https://g1.globo.com/pr/parana/noticia/2019/08/07/justica-autoriza-transferencia-de-lula-para-sao-paulo.ghtml",
+      "urlToImage":"https://s2.glbimg.com/d27zFAGVqpm0QKMzj930RBhDybs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/6/w/9wdFZFQNiwZcWcpo5Jfg/lula.jpg",
+      "publishedAt":"2019-08-07T12:46:00Z",
+      "content":"A juíza Carolina Lebbos autorizou transferência do ex-presidente Luiz Inácio Lula da Silva, que está detido na carceragem a Polícia Federal (PF), em Curitiba, para um estabelecimento prisional de São Paulo. A decisão foi publicada no sistema da Justiça Federa… [+4238 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Advfn.com"
+      },
+      "author":"Repórter ADVFN",
+      "title":"ADVFN News | Bom dia, Investidor! 07 de agosto de 2019 - Advfn",
+      "description":"Esse é o Bom dia, Investidor! Com tudo o que você precisa saber antes da Bolsa abrir! Destaques corporativos GPA (BOV:PCAR4): De acordo com o...",
+      "url":"https://br.advfn.com/jornal/2019/08/bom-dia-investidor-07-de-agosto-de-2019",
+      "urlToImage":"https://br.advfn.com/jornal/files/2017/11/investidor-585x390.png",
+      "publishedAt":"2019-08-07T12:25:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Espn.com.br"
+      },
+      "author":null,
+      "title":"Veja quanto Athletico Paranaense ganha com título no Japão em meio ao Brasileiro - ESPN.com.br",
+      "description":"Time venceu o Shonan Bellmare por 4 a 0",
+      "url":"https://www.espn.com.br/futebol/artigo/_/id/5924628/veja-quanto-athletico-paranaense-ganha-com-titulo-no-japao-em-meio-ao-brasileiro",
+      "urlToImage":"https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0807%2Fr580562_636x358_16%2D9.jpg",
+      "publishedAt":"2019-08-07T12:17:29Z",
+      "content":"A Copa Levain Cup (antiga Copa Suruga) renderá um bom dinheiro para os cofres do Athletico Paranaense.\r\nA equipe brasileira conquistou o título no Japão nesta quarta-feira, vencendo o Shonan Bellmare-JAP por 4 a 0.\r\nA competição, que reúne o campeão da Copa S… [+839 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Vendas do comércio crescem 0,1% em junho, 1ª alta desde março - G1",
+      "description":"No acumulado em 12 meses, porém, setor perdeu ritmo e permanece em trajetória descendente. No 2º trimestre, queda foi de 0,3%.",
+      "url":"https://g1.globo.com/economia/noticia/2019/08/07/vendas-do-comercio-crescem-01percent-em-junho-diz-ibge.ghtml",
+      "urlToImage":"https://s2.glbimg.com/ual6PbitvSGtrH2HJo27v6iSPZM=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/7823643.jpg",
+      "publishedAt":"2019-08-07T12:00:00Z",
+      "content":"As vendas do comércio varejista cresceram 0,1% em junho, na comparação com o mês anterior - 1ª alta desde março , segundo dados divulgados nesta quarta-feira (7) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Já em relação a junho de 2018, houve… [+5092 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Bahianoar.com"
+      },
+      "author":null,
+      "title":"Levantamento aponta que a renda do brasileiro deve ficar estagnada este ano - Bahia No Ar!",
+      "description":"O levantamento foi realizado pela consultoria A.C. Pastore.",
+      "url":"https://bahianoar.com/levantamento-aponta-que-a-renda-do-brasileiro-deve-ficar-estagnada-este-ano/",
+      "urlToImage":"https://bahianoar.com/wp-content/uploads/2019/08/5ae0e57ceb68d_dinheiro_-_59.jpg",
+      "publishedAt":"2019-08-07T11:59:41Z",
+      "content":"Foto: Reprodução / atolenews.com\r\nSegundo um levantamento da consultoria A.C. Pastore, para 2019 o crescimento previsto tanto para a economia brasileira, quanto para a população, é de 0,8%, o que vai deixar o Produto Interno Bruto (PIB) per capita e a renda d… [+2151 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Diariodocentrodomundo.com.br"
+      },
+      "author":"Kiko Nogueira",
+      "title":"VÍDEO: a noite em que Randolfe, \"laranja\" de Deltan, defendeu a Lava Jato ao som do violão de Caetano - Diário do Centro do Mundo",
+      "description":"Em maio de 2017, o senador Randolfe Rodrigues foi à casa de Paula Lavigne, mulher e empresária de Caetano Veloso, explicar por que a saída de Janot da Procuradoria-Geral da República, em setembro, podia ser o fim da Lava Jato. Pedro Luís e Maria Gadú ouviam-n…",
+      "url":"https://www.diariodocentrodomundo.com.br/video-a-noite-em-que-randolfe-laranja-de-deltan-defendeu-a-lava-jato-ao-som-do-violao-de-caetano/",
+      "urlToImage":"https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/08/screen-shot-2019-08-07-at-8-16-17-am-1.png",
+      "publishedAt":"2019-08-07T11:56:21Z",
+      "content":"Dallagnol e Randolfe quando eram amigos\r\nEm maio de 2017, o senador Randolfe Rodrigues foi à casa de Paula Lavigne, mulher e empresária de Caetano Veloso, explicar por que a saída de Janot da Procuradoria-Geral da República, em setembro, podia ser o fim da La… [+1311 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Gazetadopovo.com.br"
+      },
+      "author":"Juliano Augusto Pedrozo",
+      "title":"Após aprovação da Previdência, Maia diz que governo está mais próximo - Gazeta do Povo",
+      "description":"Rodrigo Maia disse que há relação de proximidade do governo de Jair Bolsonaro com o Congresso. A declaração foi feita após aprovação da Previdência. Leia!",
+      "url":"https://www.gazetadopovo.com.br/republica/breves/maia-governo-proximo-parlamento/",
+      "urlToImage":"https://media.gazetadopovo.com.br/2019/06/14175855/Rodrigo-Maia-e-Paulo-Guedes-2-660x372.jpg",
+      "publishedAt":"2019-08-07T11:43:40Z",
+      "content":"O presidente da Câmara, Rodrigo Maia (DEM-RJ), disse, após a aprovação do texto-base da reforma da Previdência em segundo turno, que o governo está mais próximo do Parlamento. A fala faz referência a um problema na área de habitação no Minha Casa Minha Vida. … [+497 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"R7.com"
+      },
+      "author":"R7.com",
+      "title":"Loja famosa em Tóquio é fechada após vídeo com ratos viralizar - R7",
+      "description":"Na gravação, de apenas 15 segundos, se veem até seis ratos pendurados ou nos arredores das vitrines refrigeradas em franquia",
+      "url":"https://noticias.r7.com/internacional/loja-famosa-em-toquio-e-fechada-apos-video-com-ratos-viralizar-07082019",
+      "urlToImage":"https://img.r7.com/images/family-mart-07082019081645883?dimensions=600x315&crop_position=c",
+      "publishedAt":"2019-08-07T11:17:00Z",
+      "content":"O passeio noturno de um grupo de ratos em uma loja 24 horas do popular bairro de Shibuya, em Tóquio, no Japão, obrigou o estabelecimento a fechar indefinidamente, depois que um vídeo dos roedores rondando a comida se tornou viral.\r\nNo vídeo, de apenas 15 segu… [+667 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Foxsports.com.br"
+      },
+      "author":"FOX Sports",
+      "title":"Veja como está a negociação entre Flamengo e Balotelli e o que falta para que aconteça um acerto - Fox Sports",
+      "description":"Atacante está sem clube e tem a oferta do time carioca em mãos. Rubro-Negro aguarda agora uma decisão",
+      "url":"https://www.foxsports.com.br/news/419005-veja-como-esta-a-negociacao-entre-flamengo-e-balotelli-e-o-que-falta-para-que-aconteca-um-acerto",
+      "urlToImage":"https://cdn.foxsports.com.br/sites/foxsports-br/files/img/notes/materia/745021_fotoarena-1280.jpg",
+      "publishedAt":"2019-08-07T11:05:00Z",
+      "content":"O Flamengo está de fato empenhado em montar um grande elenco e quer a chegada de mais um grande nome para a sequência da temporada. A cereja do bolo tem nome e sobrenome: Mario Balotelli. Neste momento, as negociações entre as partes seguem a todo vapor e o t… [+1374 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Cidades do Alto Tietê oferecem mais de 200 vagas de emprego nesta quarta - G1",
+      "description":"Oportunidades são para trabalhar em Mogi das Cruzes, Suzano, Guararema, Itaquaquecetuba, Santa Isabel, Ferraz de Vasconcelos, Arujá e Poá.",
+      "url":"https://g1.globo.com/sp/mogi-das-cruzes-suzano/concursos-e-emprego/noticia/2019/08/07/cidades-do-alto-tiete-oferecem-mais-de-200-vagas-de-emprego-nesta-quarta.ghtml",
+      "urlToImage":"https://s2.glbimg.com/8c1tNfAx_SNj3KA8hBU6mSQ6zzk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/a/i/tOhAbcQsqQwdFMFB8OKg/carteir.png",
+      "publishedAt":"2019-08-07T11:03:00Z",
+      "content":"Nesta quarta-feira (7), os programas de encaminhamento ao emprego oferecem 219 oportunidades em oito cidades do Alto Tietê. As vagas são para trabalhar em Mogi das Cruzes, Suzano, Guararema, Itaquaquecetuba, Santa Isabel, Ferraz de Vasconcelos, Arujá e Poá.\r\n… [+5638 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Homem preso com corda e levado por policiais a cavalo nos EUA sofre de transtornos mentais - Extra",
+      "description":"Donald Neely, de 43 anos, o homem negro que foi preso com uma corda e levado por policiais a cavalo pelas ruas da cidade de Galveston, no Texas, Estados...",
+      "url":"https://extra.globo.com/noticias/mundo/homem-preso-com-corda-levado-por-policiais-cavalo-nos-eua-sofre-de-transtornos-mentais-23859892.html",
+      "urlToImage":"https://extra.globo.com/incoming/23858245-524-704/w533h800/foto-homem-preso.jpg",
+      "publishedAt":"2019-08-07T11:01:00Z",
+      "content":"Donald Neely, de 43 anos, o homem negro que foi preso com uma corda e levado por policiais a cavalo pelas ruas da cidade de Galveston, no Texas, Estados Unidos, sofre de transtorno bipolar, esquizofrenia e dorme regulamente nas ruas. As informações foram comp… [+2607 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Ig.com.br"
+      },
+      "author":"O Dia",
+      "title":"Mega-Sena: aposta única do Rio fatura prêmio de R$ 30,5 milhões - O DIA",
+      "description":"Quina teve 61 acertadores; cada um ganhará R$ 32.544,44",
+      "url":"https://odia.ig.com.br/brasil/2019/08/5670117-mega-sena--aposta-unica-do-rio-fatura-premio-de-r--30-5-milhoes.html",
+      "urlToImage":"https://odia.ig.com.br/_midias/jpg/2019/06/08/megasenadsc_5279-11489426.jpg",
+      "publishedAt":"2019-08-07T09:57:00Z",
+      "content":"Por\r\n O Dia\r\nPublicado às 06h57 de 07/08/2019 \r\n- Atualizado às 07h00 de 07/08/2019"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Istoe.com.br"
+      },
+      "author":"AFP",
+      "title":"Tardígrados, seres 'indestrutíveis', podem estar vivos na Lua - Istoe",
+      "description":"Pode haver vida na Lua, no fim das contas: seres virtualmente indestrutíveis que suportam radiação extrema, calor crepitante, as temperaturas mais frias do universo e décadas sem comida. Essas criaturas não são alienígenas, mas sim terráqueos microscópicos co…",
+      "url":"https://istoe.com.br/tardigrados-seres-indestrutiveis-podem-estar-vivos-na-lua/",
+      "urlToImage":"https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/08/bd46b78234c48a5f8665bbbb52fc85cf7aae7a11.jpg",
+      "publishedAt":"2019-08-07T09:04:00Z",
+      "content":"Pode haver vida na Lua, no fim das contas: seres virtualmente indestrutíveis que suportam radiação extrema, calor crepitante, as temperaturas mais frias do universo e décadas sem comida. \r\nEssas criaturas não são alienígenas, mas sim terráqueos microscópicos … [+1502 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Superesportes.com.br"
+      },
+      "author":"Superesportes, Superesportes",
+      "title":"Por fim da má fase e sonho do sétimo título, Cruzeiro abre semifinal da Copa do Brasil contra o Internacional - Superesportes",
+      "description":"Time celeste faz jogo de ida nesta quarta-feira, às 21h30, no Mineirão",
+      "url":"https://www.mg.superesportes.com.br/app/noticias/futebol/cruzeiro/2019/08/07/noticia_cruzeiro,1603481/cruzeiro-x-internacional-times-abrem-semifinal-da-copa-do-brasil.shtml",
+      "urlToImage":"https://imgsapp.mg.superesportes.com.br/app/noticia_126420360808/2019/08/07/1603481/20190807002314598575i.jpg",
+      "publishedAt":"2019-08-07T09:00:00Z",
+      "content":"COPA DO BRASIL\r\nTime celeste faz jogo de ida nesta quarta-feira, às 21h30, no Mineirão\r\nEliminado nas oitavas de final da Copa Libertadores pelo River Plate e na luta contra o rebaixamento no Campeonato Brasileiro - 18ª colocação, com dez pontos em 13 rodadas… [+6007 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Portaldoholanda.com.br"
+      },
+      "author":"Portal do Holanda",
+      "title":"Suspeita de possível atirador causa pânico na Time Square e deixa feridos - Portal do Holanda",
+      "description":"Falso tiroteo en Times Square provoca una gran estampidapic.twitter.com/JleqCciiRL\r\n— 6W...",
+      "url":"https://www.portaldoholanda.com.br/eua/suspeita-de-possivel-atirador-causa-panico-na-time-square-e-deixa-feridos",
+      "urlToImage":"https://www.portaldoholanda.com.br/sites/default/files/imagecache/2016_noticia_topo/portaldoholanda-925472-imagem.png",
+      "publishedAt":"2019-08-07T07:34:00Z",
+      "content":"Falso tiroteo en Times Square provoca una gran estampidapic.twitter.com/JleqCciiRL\r\n6W (@6W_es) August 7, 2019\r\nUm confusão generalizada deixou vários feridos, noite desta terça-feira (06), na Times Square, das principais avenidas de Manhattan, distrito de No… [+315 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Uol.com.br"
+      },
+      "author":"UOL",
+      "title":"Galaxy Note 10: o que esperar do lançamento do celular - Outracoisa",
+      "description":"Falta pouco para a gente conhecer tudo sobre o novo celular top de linha da Samsung: o Galaxy Note 10. Que até o anúncio do ainda-a-ser-(re)lançado Galaxy Fold, era considerado pela companhia seu smartphone mais poderoso. O dispositivo será lançado nesta",
+      "url":"https://noticias.uol.com.br/tecnologia/noticias/redacao/2019/08/07/galaxy-note-10-rumores-sobre-o-novo-celular-da-samsung.htm",
+      "urlToImage":"https://conteudo.imguol.com.br/c/noticias/0e/2019/08/02/renderizacao-do-possivel-galaxy-note-10-1564776952839_v2_615x300.png",
+      "publishedAt":"2019-08-07T07:00:00Z",
+      "content":"Falta pouco para a gente conhecer tudo sobre o novo celular top de linha da Samsung: o Galaxy Note 10. Que até o anúncio do ainda-a-ser-(re)lançado Galaxy Fold, era considerado pela companhia seu smartphone mais poderoso. O dispositivo será lançado nesta quar… [+6121 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Uol.com.br"
+      },
+      "author":"Olívia Fraga",
+      "title":"Papanicolau está com os dias contados e será substituído por teste de HPV? - UOL",
+      "description":"Desenvolvido há mais de 80 anos pelo médico grego George Papanicolaou, o exame conhecido como papanicolau revolucionou a saúde da mulher. O teste é um dos procedimentos mais exitosos da medicina moderna. Segundo especialistas, sua adoção sistemática, a pa",
+      "url":"https://www.uol.com.br/vivabem/noticias/redacao/2019/08/07/papanicolau-esta-com-os-dias-contados-e-sera-substituido-por-teste-de-hpv.htm",
+      "urlToImage":"https://conteudo.imguol.com.br/c/entretenimento/c7/2019/08/06/cancer-de-colo-do-utero-hpv-1565116498692_v2_615x300.jpg",
+      "publishedAt":"2019-08-07T07:00:00Z",
+      "content":"Desenvolvido há mais de 80 anos pelo médico grego George Papanicolaou, o exame conhecido como papanicolau revolucionou a saúde da mulher. O teste é um dos procedimentos mais exitosos da medicina moderna. Segundo especialistas, sua adoção sistemática, a partir… [+7224 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":"Manoel Ventura",
+      "title":"Previdência: em crise com PSL, Frota é o único deputado a se abster na votação da reforma - Jornal O Globo",
+      "description":"A favor da reforma, Frota chegou a ser o coordenador do PSL na comissão especial que analisou a Previdência",
+      "url":"https://oglobo.globo.com/economia/previdencia-em-crise-com-psl-frota-o-unico-deputado-se-abster-na-votacao-da-reforma-23859787",
+      "urlToImage":"https://ogimg.infoglobo.com.br/in/23859791-0e8-6bb/FT1086A/652/83017418_BSBBrasiliaBrasil04-06-2019Revista-EpocaDeputado-Alexandre-Frota-PSL-SP-pres.jpg",
+      "publishedAt":"2019-08-07T05:29:10Z",
+      "content":"BRASÍLIA Em crise com o PSL, o deputado Alexandre\r\nFrota\r\n(SP) não votou a favor da\r\nreforma da Previdência\r\nem segundo turno. Na madrugada desta quarta-feira, a proposta\r\nfoi aprovada por 370 votos a favor\r\n, 124 contra e uma abstenção. O único deputado pres… [+9654 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Prêmio Sexy Hot 2019 tem luxo, extravagância e luta por diversidade; veja vencedores - G1",
+      "description":"Festa do 'Oscar do pornô brasileiro' foi de gala a transparência, teve discurso contra 'caretice tosca' e atriz ovacionada; veja lista de premiados.",
+      "url":"https://g1.globo.com/pop-arte/noticia/2019/08/06/premio-sexy-hot-2019-veja-vencedores-do-oscar-do-porno-brasileiro.ghtml",
+      "urlToImage":"https://s2.glbimg.com/AQ3AbUyW58B1lmmpGL4i_1_ahAg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/8/4/r5zfjjTeOes789EukAKg/premio-sexy-hot-2019.jpg",
+      "publishedAt":"2019-08-07T02:36:00Z",
+      "content":"O Prêmio Sexy Hot, conhecido como o Oscar pornô brasileiro, foi apresentado, pela primeira vez nesta terça (6), por uma mulher: a escritora e roteirista Natália Klein. Neste ano, a principal novidade foi a volta de categorias LGBT, ausentes na edição anterior… [+5976 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Ladrões roubam milhões em moedas de ouro na Casa da Moeda no México - G1",
+      "description":"Centenários estavam em cofre aberto em fabricante de peças na Cidade do México. Dois homens armados invadiram local durante o dia e colocaram mais de 1.500 moedas comemorativas dentro de uma mochila.",
+      "url":"https://g1.globo.com/mundo/noticia/2019/08/06/ladroes-roubam-milhoes-em-moedas-de-ouro-na-casa-da-moeda-no-mexico.ghtml",
+      "urlToImage":"https://s2.glbimg.com/kXMLyO_H4UHYBZ8Dcn-EQn_aGZY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/h/WURFm3RLSSX9isjkfc2A/2019-08-06t212212z-55587180-rc1f611313b0-rtrmadp-3-mexico-robbery.jpg",
+      "publishedAt":"2019-08-07T01:31:00Z",
+      "content":"Ladrões armados invadiram uma fábrica de moedas do governo mexicano na terça-feira (6) e encheram uma mochila com mais de 50 milhões de pesos (quase R$ 10 milhões) em moedas de ouro de um cofre que havia sido deixado aberto, disseram autoridades de segurança.… [+1401 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Uol.com.br"
+      },
+      "author":"",
+      "title":"Da pior a melhor: Ranqueamos as cenas deletadas de Vingadores Ultimato - Observatório do Cinema",
+      "description":"Saiba quais foram as melhores cenas deletadas de Vingadores: Ultimato.",
+      "url":"https://observatoriodocinema.bol.uol.com.br/listas/2019/08/da-pior-a-melhor-ranqueamos-as-cenas-deletadas-de-vingadores-ultimato",
+      "urlToImage":"https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/06/cropped-avengers-endgame-captain-marvel-black-widow-iron-man-movies-6.jpg",
+      "publishedAt":"2019-08-07T01:00:00Z",
+      "content":"A versão digital de Vingadores: Ultimato já está à venda e junto com ela, diversos conteúdos extra foram revelados pela Marvel. Entre eles, temos seis cenas deletadas do filme. Mas quais dessas cenas são realmente importantes de se conferir?\r\nO CBR ranqueou t… [+2924 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Petrobras cancela contrato com escritório do presidente da OAB - G1",
+      "description":"Informação foi publicada na noite desta terça-feira (6) pela jornalista Mônica Bergamo, da Folha de S.Paulo. Petrobras informou que não irá comentar.",
+      "url":"https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/08/06/petrobras-cancela-contrato-com-presidente-da-oab.ghtml",
+      "urlToImage":"https://s2.glbimg.com/tg67aw_nPvhtCRTf_jtiRDLe-U8=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/7823523.jpg",
+      "publishedAt":"2019-08-07T00:12:00Z",
+      "content":"A Petrobras informou ao presidente da Ordem dos Advogados do Brasil (OAB), Felipe Santa Cruz, que irá cancelar o contrato mantido com o escritório dele, de acordo com reportagem publicada na noite desta terça-feira (6) pela colunista Mônica Bergamo, da Folha … [+2400 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Ministério alerta para cidades com surto ativo de sarampo - G1",
+      "description":"Crianças com idades entre seis meses e 1 ano precisam tomar uma dose extra da vacina, para evitar o contágio pelo vírus.",
+      "url":"https://g1.globo.com/jornal-nacional/noticia/2019/08/06/ministerio-alerta-para-cidades-com-surto-ativo-de-sarampo.ghtml",
+      "urlToImage":"https://s2.glbimg.com/rQbVKWhUERg5P8OBZPa6JXVL1Xw=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/7823476.jpg",
+      "publishedAt":"2019-08-06T23:30:00Z",
+      "content":"O Ministério da Saúde emitiu um alerta para as famílias com crianças pequenas que moram em uma das 43 cidades onde há surto ativo de sarampo. Segundo o governo, crianças com idades entre seis meses e 1 ano precisam tomar uma dose extra da vacina, para evitar … [+1374 chars]"
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":"Bruno Góes",
+      "title":"Em nova derrota de Moro, acordo entre as partes antes de processo é retirado do pacote anticrime - Jornal O Globo",
+      "description":"Instrumento elaborado por Alexandre Moraes, que mira crimes leves, é aprovado",
+      "url":"https://oglobo.globo.com/brasil/em-nova-derrota-de-moro-acordo-entre-as-partes-antes-de-processo-retirado-do-pacote-anticrime-23859327",
+      "urlToImage":"https://ogimg.infoglobo.com.br/in/23843249-542-e72/FT1086A/652/48414207266_41599c9089_o.jpg",
+      "publishedAt":"2019-08-06T23:18:59Z",
+      "content":"BRASÍLIA O grupo de trabalho do pacote anticrime, que tramita na Câmara dos Deputados, rejeitou nesta terça-feira o instituto do\r\n\"plea bargain\"\r\n. O resultado, oito votos a três, representa uma derrota para o ministro da Justiça,\r\nSergio Moro\r\n, que defendia… [+1585 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Aquinoticias.com"
+      },
+      "author":null,
+      "title":"Mulher é indiciada pela Lei Maria da Penha após ameaçar e invadir casa da ex-namorada em Mimoso - www.aquinoticias.com",
+      "description":"A Lei Maria da Penha completa 13 anos nesta quarta-feira (7) e um caso pouco comum de violência doméstica foi registrado hoje (6), em Mimoso do Sul. Daniela Gomes de Souza Bahia foi indiciada pela lei por ameaçar e invadir a casa da ex-namorada que não aceita…",
+      "url":"https://www.aquinoticias.com/2019/08/mulher-e-indiciada-pela-lei-maria-da-penha-apos-ameacar-e-invadir-casa-da-ex-namorada-em-mimoso/",
+      "urlToImage":"https://i2.wp.com/www.aquinoticias.com/wp-content/uploads/2019/08/mulher-2.jpg?fit=1280%2C853&ssl=1",
+      "publishedAt":"2019-08-06T21:47:00Z",
+      "content":"A Lei Maria da Penha completa 13 anos nesta quarta-feira (7) e um caso pouco comum de violência doméstica foi registrado hoje (6), em Mimoso do Sul. Daniela Gomes de Souza Bahia foi indiciada pela lei por ameaçar e invadir a casa da ex-namorada que não aceita… [+1493 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Arqtricolor.com"
+      },
+      "author":"Wemerson Ribeiro",
+      "title":"'Currículo' de Daniel Alves é entregue à imprensa antes de apresentação no Morumbi - Arquibancada Tricolor",
+      "description":"Um papel com os principais feitos de Daniel Alves na carreira foi entregue aos profissionais de imprensa antes da apresentação do atleta no Morumbi, nesta terça-feira (06).",
+      "url":"https://www.arqtricolor.com/ultimas/curriculo-de-daniel-alves-e-entregue-a-imprensa-antes-de-apresentacao-no-morumbi/",
+      "urlToImage":"https://www.arqtricolor.com/wp-content/uploads/2019/08/cropped-alves.jpg",
+      "publishedAt":"2019-08-06T21:37:09Z",
+      "content":"Um papel com os principais feitos de Daniel Alves na carreira foi entregue aos profissionais de imprensa antes da apresentação do atleta no Morumbi, nesta terça-feira (06).\r\nAlém de informar que o São Paulo é apenas o 6º clube do jogador de 36 anos, um detalh… [+102 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Clicrbs.com.br"
+      },
+      "author":"GaúchaZH",
+      "title":"Facebook deve adicionar o próprio nome aos aplicativos WhatsApp e Instagram - Zero Hora",
+      "description":"Pessoas ligadas ao Facebook afirmaram que a gigante das redes sociais pretende deixar mais explícito seu controle sobre o Instagram e WhatsApp. A companhia pretende adicionar seu nome em ambos os aplicativos, segundo relato de fontes anônimas ao site de notíc…",
+      "url":"https://gauchazh.clicrbs.com.br/tecnologia/noticia/2019/08/facebook-deve-adicionar-o-proprio-nome-aos-aplicativos-whatsapp-e-instagram-cjz0by5hx02c501ms1tsv82hl.html",
+      "urlToImage":"https://www.rbsdirect.com.br/imagesrc/19200872.jpg?w=1200&h=630&a=c",
+      "publishedAt":"2019-08-06T21:23:00Z",
+      "content":"Receba gratuitamente o melhor de GaúchaZH no seu e-mail e mantenha-se sempre atualizado."
+    },
+    {
+      "source":{
+        "id":"globo",
+        "name":"Globo"
+      },
+      "author":null,
+      "title":"Bailarina de Sandy e Junior conta detalhes dos bastidores de ensaios para a turnê - Jornal Extra",
+      "description":"Por trás de toda a energia e emoção dos shows de Sandy e Junior, há dezenas de pessoas que trabalham há meses para tudo dar certo. A bailarina Carol Prado, uma...",
+      "url":"https://extra.globo.com/sandy-e-junior/bailarina-de-sandy-junior-conta-detalhes-dos-bastidores-de-ensaios-para-turne-23858310.html",
+      "urlToImage":"https://extra.globo.com/incoming/23858238-824-06a/w533h800/palco-do-show-foi-montado-em-uma-fazenda-em-jaguariuna,-na-regiao-metropolitana-de-campinas.jpg",
+      "publishedAt":"2019-08-06T20:55:00Z",
+      "content":"Por trás de toda a energia e emoção dos shows de Sandy e Junior, há dezenas de pessoas que trabalham há meses para tudo dar certo. A bailarina Carol Prado, uma das 12 integrantes da equipe de dança da turnê \"Nossa história\", contou nas redes alguns detalhes s… [+3900 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Marciapiovesan.com.br"
+      },
+      "author":null,
+      "title":"Em uma cama de hospital, Régis grita de pavor ao ver Josiane - Portal Márcia Piovesan",
+      "description":null,
+      "url":"https://www.marciapiovesan.com.br/site/novelas/a-dona-do-pedaco/em-uma-cama-de-hospital-regis-grita-de-pavor-ao-ver-josiane/",
+      "urlToImage":null,
+      "publishedAt":"2019-08-06T19:00:00Z",
+      "content":"Falta muito pouco para Maria da Paz (Juliana Paes) descobrir o caso de Régis (Reynaldo Giannechini) com Josiane (Agatha Moreira) em A Dona do Pedaço. Conforme o Portal Márcia Piovesan já adiantou, a confeiteira vai atirar no marido, que ficará entre a vida e … [+954 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Correiobraziliense.com.br"
+      },
+      "author":"Correio Braziliense, Correio Braziliense",
+      "title":"Conheça a síndrome que já matou 160% mais que epidemia de dengue em Minas - Correio Braziliense",
+      "description":"Onda de frio aumenta chance infec��es por v�rus respirat�rios. Minas j� registrou 306 mortes por SRAG, cerca de 2,6 vezes mais que a doen�a transmitida pelo Aedes aegypti",
+      "url":"https://www.correiobraziliense.com.br/app/noticia/brasil/2019/08/06/interna-brasil,775803/conheca-a-sindrome-que-ja-matou-160-mais-que-epidemia-de-dengue-minas.shtml",
+      "urlToImage":"https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/08/06/775803/20190806150332215611o.jpg",
+      "publishedAt":"2019-08-06T18:08:00Z",
+      "content":"Ao sabor dos humores do tempo, mudam os desafios da sade pblica, mas permanece o alerta entre autoridades e pacientes em Minas. A queda dos termmetros, se fez comear a recuar o pesadelo da dengue, que este ano j tirou a vida de 117 pessoas no estado, traz ton… [+5351 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Uol.com.br"
+      },
+      "author":null,
+      "title":"Bolsonaro arma palanque para rivais do Nordeste - Outracoisa",
+      "description":"Acompanhe as últimas notícias do Brasil e do mundo em áreas como política, economia, cotidiano, saúde, tecnologia, educação e mais. Veja ainda fotos, áudios, vídeos e reportagens especiais com recursos multimídia.",
+      "url":"https://josiasdesouza.blogosfera.uol.com.br/2019/08/06/bolsonaro-arma-palanque-para-rivais-do-nordeste/",
+      "urlToImage":"https://conteudo.imguol.com.br/blogs/58/files/2019/06/BolsonaroAdrianoMachadoReuters-615x300.jpg",
+      "publishedAt":"2019-08-06T17:53:00Z",
+      "content":"Jair Bolsonaro ainda não notou. Mas tornou-se uma oportunidade que os governadores nordestinos da oposição aproveitam. As críticas do presidente servem de matéria-prima para que os rivais armem palanques fora de época no Nordeste, um pedaço do mapa onde a apr… [+3972 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Portalmie.com"
+      },
+      "author":"https://www.facebook.com/portalmie",
+      "title":"Asteroide maior que o Empire State passará próximo da Terra - Portal Mie",
+      "description":"O 2006 QQ23 foi descoberto há mais de uma década. A agência espacial americana disse que não há perigo do asteroide atingir nosso planeta.",
+      "url":"https://www.portalmie.com/atualidade/mundo/noticias-do-mundo/2019/08/asteroide-maior-que-o-empire-state-passara-proximo-da-terra/",
+      "urlToImage":"https://www.portalmie.com/wp-content/uploads/2019/08/asteroide.jpg",
+      "publishedAt":"2019-08-06T16:10:00Z",
+      "content":"06 de agosto de 2019\r\nAsteroide maior que o Empire State passará próximo da Terra\r\n(ilustrativa/banco de imagens)\r\nA NASA está de olho no asteroide 2006 QQ23, já que ele deve passar próximo à Terra em 10 de agosto.\r\nA rocha massiva, cuja estimativa de diâmetr… [+1625 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Gazetadopovo.com.br"
+      },
+      "author":"Gazeta do Povo",
+      "title":"Trump decreta embargo total ao regime de Maduro na Venezuela e ataca supremacistas brancos | Rodrigo Constantino - Gazeta do Povo - Colunistas",
+      "description":"O presidente Trump anunciou uma “ordem executiva” (decreto presidencial) para intensificar a pressão contra o regime ditatorial do socialista Maduro na Venezuela. Essa medida costuma ser restrita aos piores governos do mundo, como Coreia do Norte, Síria e Cub…",
+      "url":"https://www.gazetadopovo.com.br/rodrigo-constantino/artigos/trump-decreta-embargo-total-ao-regime-de-maduro-na-venezuela-e-ataca-supremacistas-brancos/",
+      "urlToImage":"https://constantino-static.gazetadopovo.com.br/assets/2018/01/trump-25.jpg",
+      "publishedAt":"2019-08-06T15:57:23Z",
+      "content":"O presidente Trump anunciou uma “ordem executiva” (decreto presidencial) para intensificar a pressão contra o regime ditatorial do socialista Maduro na Venezuela. Essa medida costuma ser restrita aos piores governos do mundo, como Coreia do Norte, Síria e Cub… [+2346 chars]"
+    },
+    {
+      "source":{
+        "id":null,
+        "name":"Bbc.com"
+      },
+      "author":"https://www.facebook.com/bbcnews",
+      "title":"Ricardo Galvão: exportações serão 'violentamente afetadas' se Inpe parar de medir desmatamento - BBC News Brasil",
+      "description":"Em entrevista à BBC News Brasil, ex-diretor do Inpe diz que Ministério do Meio Ambiente parou de considerar alertas produzidos pelo Instituto, e que consequências poderão ser graves para o país",
+      "url":"https://www.bbc.com/portuguese/brasil-49214133",
+      "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_portuguese/8A66/production/_108203453_373a484e-fd89-4039-9535-82fca66e44ae.png",
+      "publishedAt":"2019-08-05T19:29:23Z",
+      "content":"Direito de imagemRicardo Galvão / Arquivo pessoalImage caption\r\n O físico Ricardo Galvão, 71 anos, é membro da Academia Brasileira de Ciências\r\nO físico Ricardo Magnus Osório Galvão, 71 anos, deixou na sexta-feira (02) o comando do Instituto Nacional de Pesqu… [+14768 chars]"
+    }
+  ]
+}
