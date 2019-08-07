@@ -1,4 +1,4 @@
-import newsApi from './services/local'
+import newsApi from './services/news-api'
 
 const news = Object.assign({}, newsApi)
 
