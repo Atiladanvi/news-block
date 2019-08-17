@@ -1,6 +1,4 @@
-# News Block 1.0
-
-![Drag Racing](public/view.png)
+# News Block 2.0
 
 ## Project setup
 ```
