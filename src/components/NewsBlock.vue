@@ -41,10 +41,10 @@
                 img-width="1024"
                 img-height="480"
               >
-                <div v-for="(item, index) in items" v-bind:key="index">
+                <div v-for="(item, index) in articles" v-bind:key="index">
                   <b-carousel-slide
                     text-tag="div"
-                    :href="item.urlToImage"
+                    :href="item.urlToImage || 'img/default.jpg'"
                     :caption-html="`<a target='_blank' href='${ item.url }'><h5 class='text-white bg-dark py-2 font-weight-900'>${ item.title }</h5></a>`"
                     :img-src="item.urlToImage || 'img/default.jpg'"
                     style="height: 301px"
@@ -58,7 +58,7 @@
         <div class="col-lg-6 col-sm-12 mt-3 d-lg-block">
           <div class="row">
             <div
-              v-for="(item, index) in items"
+              v-for="(item, index) in articles.slice(0, 4)"
               v-bind:key="index"
               class="col-lg-6 col-sm-6 pt-0 px-1 pb-2"
             >
@@ -83,31 +83,6 @@
             </div>
           </div>
         </div>
-        <div class="row mx-0">
-          <div
-            v-for="(item, index) in more"
-            v-bind:key="index"
-            class="col-lg-3 col-sm-6 p-1 py-0">
-            <div class="card bg-dark text-white">
-              <img
-                style="height: 145px; width: auto"
-                class="card-img img-fluid"
-                :src="item.urlToImage || 'img/default.jpg'"
-                alt=""
-              />
-              <div class="card-img-overlay linkfeat d-flex">
-                <a
-                  target="_blank"
-                  :href="item.url"
-                  class="align-self-end card-link text-white"
-                >
-                  <p class="card-title mb-1 small">{{ item.title }}</p>
-                  <small class="text-muted">{{item.author}}</small>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </b-container>
     <b-container v-else>
@@ -120,13 +95,13 @@
         </b-col>
       </b-row>
     </b-container>
-    <div  v-if="show" class="d-flex mb-1 justify-content-center">
-      <span class="font-weight-bold">Exibindo {{items.length+more.length}} de {{articles.length}} notícias</span>
-    </div>
-    <div  v-if="show" class="d-flex justify-content-center">
-      <b-button @click="addMore" variant="outline-primary">Carregar mais</b-button>
-      <b-button v-if="more.length > 0" @click="cleanGrid" class="mx-2" variant="outline-danger">Limpar</b-button>
-    </div>
+    <b-container v-if="articles.length === 0">
+      <b-row style="height: 350px" align-v="center">
+        <b-col class="text-center">
+          <h5 class="text-muted">Sem notícias para exibir</h5>
+        </b-col>
+      </b-row>
+    </b-container>
   </b-container>
 </template>
 
@@ -136,13 +111,10 @@
     name: 'NewsBlock',
     data() {
       return {
-        selected: 'general',
+        selected: 'General',
         categories: [],
-        items:    [],
-        more:     [],
         articles: [],
         show: false,
-        moreLength: 16,
         error: null
       };
     },
@@ -151,12 +123,7 @@
         this.show = false
         news.loadNews(category)
           .then(response => {
-            this.items = []
-            this.more = []
             this.articles = response.body.articles
-            for (let n = 0; n < 4; n++) {
-              this.items.push(response.body.articles[n])
-            }
             this.show = true
           })
           .catch(() => {
@@ -169,23 +136,10 @@
             this.categories = response.body.data
           })
       },
-      addMore(){
-        const i = this.more.length + this.moreLength
-        for (let n = this.more.length ; n < i ; n++){
-          if (this.articles[n+this.moreLength]){
-            this.more.push(this.articles[n+this.moreLength])
-          }
-        }
-      },
-      cleanGrid(){
-        this.more = []
-        document.getElementById('news-grid').scrollIntoView();
-        window.scrollBy(0, -200)
-      }
     },
     mounted: function() {
       this.loadCategories()
-      this.loadNews('general')
+      this.loadNews('General')
     },
     watch: {
       selected: function() {
