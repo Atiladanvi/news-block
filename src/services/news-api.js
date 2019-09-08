@@ -39,7 +39,7 @@ const newsApi = {
         return newsapi.v2
           .topHeadlines({
             sources: "",
-            pageSize:100,
+            pageSize:30,
             q: "",
             category: category,
             language: "pt",
