@@ -95,7 +95,7 @@
         </b-col>
       </b-row>
     </b-container>
-    <b-container v-if="articles.length === 0">
+    <b-container v-if="articles.length === 0 && show">
       <b-row style="height: 350px" align-v="center">
         <b-col class="text-center">
           <h5 class="text-muted">Sem notícias para exibir</h5>
