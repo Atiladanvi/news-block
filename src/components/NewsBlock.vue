@@ -111,7 +111,7 @@
     name: 'NewsBlock',
     data() {
       return {
-        selected: 'general',
+        selected: 'Geral',
         categories: [],
         articles: [],
         show: false,
@@ -139,7 +139,7 @@
     },
     mounted: function() {
       this.loadCategories()
-      this.loadNews('general')
+      this.loadNews('Geral')
     },
     watch: {
       selected: function() {
