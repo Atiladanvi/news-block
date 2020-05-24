@@ -1,6 +1,6 @@
-import mokaNewsApi from "./services/news-moka";
+import newsApi from "./services/news-api";
 
-const news = Object.assign({}, mokaNewsApi)
+const news = Object.assign({}, newsApi)
 
 export default news
 

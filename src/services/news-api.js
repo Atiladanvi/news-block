@@ -48,6 +48,8 @@ const newsApi = {
           .then(data => {
             response.body = data
             resolve(response)
+          }).catch(er => {
+            resolve(er)
           })
 
       });
