@@ -1,4 +1,4 @@
-import newsApi from "./services/news-api";
+import newsApi from "./services/janela-news";
 
 const news = Object.assign({}, newsApi)
 

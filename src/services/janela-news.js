@@ -3,10 +3,12 @@ import VueResource from 'vue-resource'
 
 Vue.use(VueResource)
 
-const api = process.env.VUE_APP_MOKA_NEWS_URI
+const api = process.env.VUE_APP_JANELA_NEWS_URI
+const key = process.env.VUE_APP_JANELA_NEWS_KEY
 
 
 const ClientMokaNewsRequest = function (uri) {
+  Vue.http.headers.common['JanelaNewsKey'] = key
   return Vue.http.get(uri)
 }
 
